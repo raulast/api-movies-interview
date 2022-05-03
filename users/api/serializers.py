@@ -1,5 +1,4 @@
 from re import match
-from wsgiref.validate import validator
 from rest_framework import serializers
 from users.models import User
 
